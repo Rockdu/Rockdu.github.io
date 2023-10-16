@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 <!-- # 🔥 News
@@ -49,11 +47,11 @@ Temporal Flexibility in Spiking Neural Network
 # 🎖 Honors and Awards
 - *2023.10* **2022-2023 China National Scholarship** (top **0.1%**)
 - *2022.10* **2021-2022 China National Scholarship** (top **0.1%**)
-- *2022.10* [**4th Place Winner** IEEEXtreme 16.0](https://ieeextreme.org/ieeextreme-16-0-ranking/)
+- *2022.10* **4th Place Winner** in [IEEEXtreme 16.0](https://ieeextreme.org/ieeextreme-16-0-ranking/)
 - *2021.10* **2020-2021 China National Scholarship** (top **0.1%**)
-- *2021.04* [**Gold Medal** in 2020 ICPC Asia Kunming Regional Contest](https://icpc.global/)
-- *2021.04* [**Silver Medal** in 2020 ICPC Asia Asia-East Continent Final Contest (EC-Final)](https://icpc.global/)
-- *2020.12* [**Silver Medal** in 2020 ICPC Asia Kunming Regional Contest](https://icpc.global/)
+- *2021.04* **Gold Medal** in [2020 ICPC Asia Kunming Regional Contest](https://icpc.global/)
+- *2021.04* **Silver Medal** in [2020 ICPC Asia Asia-East Continent Final Contest (EC-Final)](https://icpc.global/)
+- *2020.12* **Silver Medal** in [2020 ICPC Asia Kunming Regional Contest](https://icpc.global/)
 
 # 📖 Educations
 - *2020.09 - 2024.06 (expected)*, **B. Eng. Degree in Computer Science**, University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)). 
