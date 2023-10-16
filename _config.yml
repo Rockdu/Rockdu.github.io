@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kangrui Du"
-description              : "Homepage"
+description              : "B. Eng. in Computer Science & Technology"
 repository               : "Rockdu/Rockdu.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kangrui Du"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Electronic Science and Technology of China\nB. Eng. in Computer Science & Technology"
+  bio              : "University of Electronic Science and Technology of China"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
