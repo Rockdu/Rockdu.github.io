@@ -37,9 +37,12 @@ Temporal Flexibility in Spiking Neural Network
 **Kangrui Du**, Yuhang Wu, Shikuang Deng, Shi Gu
 
 [**Paper**](https://openreview.net/forum?id=RmQAKu1wCe) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Existing methods only allow SNNs to operate at a specific time step. This entails extra fine-tuning when switching to another time step and hinders the run-time adjustment of time steps for energy-accuracy balance.
+- Current methods restrict SNNs to fixed time steps, necessitating extra tuning and hindering real-time adjustments. 
+- Our novel training method assigns time steps randomly to modules, mitigating their influence on inference, resulting in flexible SNNs that generalize across time steps and exhibit competitive performance compared to state-of-the-art methods.
+
+<!-- - Existing methods only allow SNNs to operate at a specific time step. This entails extra fine-tuning when switching to another time step and hinders the run-time adjustment of time steps for energy-accuracy balance.
 - We proposed a novel training method that randomly assigns time steps to different modules when forwarding to disentangle the influence of varying time steps from the inference process. 
-- Our method yields temporal flexible SNNs that can generalize across time steps. The method also brings SNNs performance boost, exhibiting competitive performance compared to the SOTA methods.
+- Our method yields temporal flexible SNNs that can generalize across time steps. The method also brings SNNs performance boost, exhibiting competitive performance compared to the SOTA methods. -->
 </div>
 </div>
 
