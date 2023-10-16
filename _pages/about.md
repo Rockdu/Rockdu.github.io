@@ -53,7 +53,7 @@ Temporal Flexibility in Spiking Neural Networks: A Novel Training Method for Enh
 - *2021.10* **2020-2021 China National Scholarship** (top **0.1%**)
 - *2021.04* **Gold Medal** in [2020 ICPC Asia Kunming Regional Contest](https://icpc.global/)
 - *2021.04* **Silver Medal** in [2020 ICPC Asia Asia-East Continent Final Contest (EC-Final)](https://icpc.global/)
-- *2020.12* **Silver Medal** in [2020 ICPC Asia Kunming Regional Contest](https://icpc.global/)
+- *2020.12* **Silver Medal** in [2020 ICPC Asia Shanghai Regional Contest](https://icpc.global/)
 
 # 📖 Educations
 - *2020.09 - 2024.06 (expected)*, **B. Eng. Degree in Computer Science**, University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)). 
