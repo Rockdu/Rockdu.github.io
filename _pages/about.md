@@ -28,11 +28,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<<<<<<< HEAD
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission to ICLR2024</div><img src='images/tiny_fig1.png' alt="sym" width="100%"></div></div>
-=======
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission to ICLR2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
->>>>>>> d562be85bb91842905ff29a7efe41609131d44a1
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission to ICLR2024</div><img src='images/tiny_fig1.svg' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
 Temporal Flexibility in Spiking Neural Network
@@ -64,8 +61,5 @@ Temporal Flexibility in Spiking Neural Network
 
 # 💻 Internships
 - *2021.10 - Present*, Research Intern, [Brain and Intelligence Lab](https://guslab.org/) at [UESTC](https://en.uestc.edu.cn/), working on spiking neural networks, supervised by [Prof. Shi Gu](https://guslab.org/).
-<<<<<<< HEAD
+
 - *2023.07 - Present*, Research Intern, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), working on multimodal prognosis for Alzheimer's Disease(AD), supervised by [Prof. Shujun Wang](https://emma-sjwang.github.io/).
-=======
-- *2023.07 - Present*, Research Intern, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), working on multimodal prognosis for Alzheimer's Disease(AD), supervised by [Prof. Shujun Wang](https://emma-sjwang.github.io/).
->>>>>>> d562be85bb91842905ff29a7efe41609131d44a1
