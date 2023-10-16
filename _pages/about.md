@@ -30,7 +30,7 @@ redirect_from:
 
 <div class='paper-box-text' markdown="1">
 
-Temporal Flexibility in Spiking Neural Network
+Temporal Flexibility in Spiking Neural Networks: A Novel Training Method for Enhanced Generalization Across Time Steps
 
 **Kangrui Du**, Yuhang Wu, Shikuang Deng, Shi Gu
 
