@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Kangrui Du, a fourth-year undergraduate in Computer Science and Technology at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). I'm a member of [Brain and Intelligence Lab](https://guslab.org/) at [(UESTC)](https://en.uestc.edu.cn/) supervised by [Prof. Shi Gu](https://guslab.org/). I'm a research intern at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) where I'm fortunate to work with [Prof. Shujun Wang](https://emma-sjwang.github.io/). I'm also passionate about programming contest and was a member of UESTC ACM-ICPC team.
-<!-- My research interests lie in building, analyzing and applying efficient and low energy intelligent systems, including spiking neural networks, efficient AI, and medical image analysis.  -->
+Hi! My name is Kangrui Du, a fourth-year undergraduate in Computer Science and Technology at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). I'm a member of [Brain and Intelligence Lab](https://guslab.org/) at [(UESTC)](https://en.uestc.edu.cn/) supervised by [Prof. Shi Gu](https://guslab.org/). I'm a research intern at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) where I'm fortunate to work with [Prof. Shujun Wang](https://emma-sjwang.github.io/). I'm also passionate about programming contests and was a member of the UESTC ACM-ICPC team.
+<!-- My research interests lie in building, analyzing, and applying efficient and low-energy intelligent systems, including spiking neural networks, efficient AI, and medical image analysis.  -->
 My research interests mainly lie in the construction, analysis, and practical implementation of efficient intelligent systems, including spiking neural networks, efficient AI, and medical image analysis.
 
 
@@ -47,16 +47,16 @@ Temporal Flexibility in Spiking Neural Networks: A Novel Training Method for Enh
 </div>
 
 # 🎖 Honors and Awards
-- *2023.10* **2022-2023 China National Scholarship** (top **0.1%**)
-- *2022.10* **2021-2022 China National Scholarship** (top **0.1%**)
+- *2023.10* **2022-2023 China National Scholarship** (top **1%**)
+- *2022.10* **2021-2022 China National Scholarship** (top **1%**)
 - *2022.10* **4th Place Winner** in [IEEEXtreme 16.0](https://ieeextreme.org/ieeextreme-16-0-ranking/)
-- *2021.10* **2020-2021 China National Scholarship** (top **0.1%**)
+- *2021.10* **2020-2021 China National Scholarship** (top **1%**)
 - *2021.04* **Gold Medal** in [2020 ICPC Asia Kunming Regional Contest](https://icpc.global/)
 - *2021.04* **Silver Medal** in [2020 ICPC Asia Asia-East Continent Final Contest (EC-Final)](https://icpc.global/)
 - *2020.12* **Silver Medal** in [2020 ICPC Asia Shanghai Regional Contest](https://icpc.global/)
 
 # 📖 Educations
-- *2020.09 - 2024.06 (expected)*, **B. Eng. Degree in Computer Science**, University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)). 
+- *2020.09 - 2024.06 (expected)*, **B. Eng. Degree in Computer Science and Technology**, University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)). 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
