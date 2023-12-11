@@ -63,6 +63,6 @@ Temporal Flexibility in Spiking Neural Networks: A Novel Training Method for Enh
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2021.10 - Present*, Research Intern, [Brain and Intelligence Lab](https://guslab.org/) at [UESTC](https://en.uestc.edu.cn/), working on spiking neural networks, supervised by [Prof. Shi Gu](https://guslab.org/).
+- *2021.10 - Present*, Research Assistant, [Brain and Intelligence Lab](https://guslab.org/) at [UESTC](https://en.uestc.edu.cn/), working on spiking neural networks, supervised by [Prof. Shi Gu](https://guslab.org/).
 
 - *2023.07 - Present*, Research Intern, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), working on multimodal prognosis for Alzheimer's Disease(AD), supervised by [Prof. Shujun Wang](https://emma-sjwang.github.io/).
