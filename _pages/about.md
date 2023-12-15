@@ -23,7 +23,7 @@ My research interests mainly lie in the construction, analysis, and practical im
 
 
 🔥 News
-- *2023.12*: After a tough competition with 20 outstanding students in the school, I was awarded **The Most Outstanding Students Award of UESTC (2023)** (Top 10 undergraduates in UESTC)
+- *2023.12*: After a tough competition with 20 outstanding students in the school, I was awarded **The Most Outstanding Students Award of UESTC (2023)**
 - *2023.10*: I participated in IEEEXtreme 17.0 in team BunnyPonyRose and ranked 9th in the world
 
 # 📝 Publications 
