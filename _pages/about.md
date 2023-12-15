@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Kangrui Du, a fourth-year undergraduate in Computer Science and Technology at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). I'm a member of [Brain and Intelligence Lab](https://guslab.org/) at [(UESTC)](https://en.uestc.edu.cn/) supervised by [Prof. Shi Gu](https://guslab.org/). I'm a research intern at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) where I'm fortunate to work with [Prof. Shujun Wang](https://emma-sjwang.github.io/). I'm also passionate about programming contests and was a member of the UESTC ACM-ICPC team.
+Hi! My name is Kangrui Du, a fourth-year undergraduate in Computer Science and Technology at the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). I'm a member of [Brain and Intelligence Lab](https://guslab.org/) at [(UESTC)](https://en.uestc.edu.cn/) supervised by [Prof. Shi Gu](https://guslab.org/). I'm a research intern at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) where I'm fortunate to work with [Prof. Shujun Wang](https://emma-sjwang.github.io/). I'm also passionate about programming contests and was a member of the UESTC ACM-ICPC team.
 <!-- My research interests lie in building, analyzing, and applying efficient and low-energy intelligent systems, including spiking neural networks, efficient AI, and medical image analysis.  -->
 My research interests mainly lie in the construction, analysis, and practical implementation of efficient intelligent systems, including spiking neural networks, efficient AI, and medical image analysis.
 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+🔥 News
+- *2023.12*: After a tough competition with 20 outstanding students in the school, I was awarded **The Most Outstanding Students Award of UESTC (2023)** (Top 10 undergraduates in UESTC)
+- *2023.10*: I participated in IEEEXtreme 17.0 in team BunnyPonyRose and ranked 9th in the world
 
 # 📝 Publications 
 
@@ -34,7 +34,7 @@ My research interests mainly lie in the construction, analysis, and practical im
 
 Temporal Flexibility in Spiking Neural Networks: A Novel Training Method for Enhanced Generalization Across Time Steps
 
-**Kangrui Du**, Yuhang Wu, Shikuang Deng, Shi Gu
+***Kangrui Du**, *Yuhang Wu, Shikuang Deng, Shi Gu
 
 [**Paper**](https://openreview.net/forum?id=RmQAKu1wCe) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Current methods restrict SNNs to fixed time steps, necessitating extra tuning and hindering real-time adjustments. 
@@ -47,7 +47,9 @@ Temporal Flexibility in Spiking Neural Networks: A Novel Training Method for Enh
 </div>
 
 # 🎖 Honors and Awards
+- *2023.12* **The Most Outstanding Students Award of UESTC (2023)** (Top 10 undergraduates in UESTC)
 - *2023.10* **2022-2023 China National Scholarship** (top **1%**)
+- *2023.10* **9th Place Winner** in [IEEEXtreme 17.0](https://ieeextreme.org/ieeextreme-17-0-ranking/)
 - *2022.10* **2021-2022 China National Scholarship** (top **1%**)
 - *2022.10* **4th Place Winner** in [IEEEXtreme 16.0](https://ieeextreme.org/ieeextreme-16-0-ranking/)
 - *2021.10* **2020-2021 China National Scholarship** (top **1%**)
