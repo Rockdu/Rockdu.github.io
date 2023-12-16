@@ -22,7 +22,7 @@ Hi! My name is Kangrui Du, a fourth-year undergraduate in Computer Science and T
 My research interests mainly lie in the construction, analysis, and practical implementation of efficient intelligent systems, including spiking neural networks, efficient AI, and medical image analysis.
 
 
-🔥 News
+# 🔥 News
 - *2023.12*: After a heated competition with the best students from various schools across the university, I was awarded **The Most Outstanding Students Award of UESTC (2023)**
 - *2023.10*: I participated in **IEEEXtreme 17.0** in team BunnyPonyRose and ranked **9th** in the world
 
