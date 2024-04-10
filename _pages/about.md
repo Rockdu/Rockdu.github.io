@@ -23,8 +23,9 @@ My research interests mainly lie in the construction, analysis, and practical im
 
 
 # 🔥 News
-- *2023.12*: After a heated competition with the best students from various schools across the university, I was awarded **The Most Outstanding Students Award of UESTC (2023)**. [Related link](https://mp.weixin.qq.com/s?__biz=MjM5NTQ4Mzc5Nw==&mid=2651596067&idx=1&sn=82204903a3fb3e452386725e72f441cd&chksm=bd0f5cd98a78d5cfa7aecca6983ead6d587fc59b3e5e89c83b9b07acbe548f7ad5dd01e8976d&scene=27)
-- *2023.10*: I participated in **IEEEXtreme 17.0** in team BunnyPonyRose and ranked **9th** in the world
+- *2024.4*: I'm joining [**ByteDance**](https://www.bytedance.com/) as an intern.
+- *2023.12*: After a heated competition with the best students from various schools across the university, I'm awarded **The Most Outstanding Students Award of UESTC (2023)**. [Related link](https://mp.weixin.qq.com/s?__biz=MjM5NTQ4Mzc5Nw==&mid=2651596067&idx=1&sn=82204903a3fb3e452386725e72f441cd&chksm=bd0f5cd98a78d5cfa7aecca6983ead6d587fc59b3e5e89c83b9b07acbe548f7ad5dd01e8976d&scene=27)
+- *2023.10*: I participate in **IEEEXtreme 17.0** in team BunnyPonyRose and ranked **9th** in the world
 
 # 📝 Publications 
 
