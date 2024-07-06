@@ -18,14 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi! I'm Kangrui Du, a first-year M.S. in Computational Science and Engineering at College of Computing, [Georgia Institute of Technology](https://www.gatech.edu/). Before that, I received my Bachelor's degree in Computer Science and Technology at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), where I was a member of [Brain and Intelligence Lab](https://guslab.org/) at [(UESTC)](https://en.uestc.edu.cn/) supervised by [Prof. Shi Gu](https://guslab.org/). I was a research intern at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) where I'm fortunate to work with [Prof. Shujun Wang](https://emma-sjwang.github.io/).
-<!-- My research interests lie in building, analyzing and applying efficient and low energy intelligent systems, including spiking neural networks, efficient AI, and medical image analysis.  -->
+
 My current research interests mainly lie in building systems for fast and efficient machine learning. I'm also interested in programing contests and traditional algorithms, and was a member of UESTC ACM-ICPC team.
-<!-- construction, analysis, and practical implementation of efficient intelligent systems, including spiking neural networks, efficient AI, and medical image analysis. -->
 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- *2024.4*: I joined [**ByteDance**](https://www.bytedance.com/) as an intern, developing cloud computing systems for Douyin (TikTok China) video search.
+- *2023.12*: After a heated competition with the best students from various schools across the university, I'm awarded **The Most Outstanding Students Award of UESTC (2023)**. [Related link](https://mp.weixin.qq.com/s?__biz=MjM5NTQ4Mzc5Nw==&mid=2651596067&idx=1&sn=82204903a3fb3e452386725e72f441cd&chksm=bd0f5cd98a78d5cfa7aecca6983ead6d587fc59b3e5e89c83b9b07acbe548f7ad5dd01e8976d&scene=27)
+- *2023.10*: I participate in **IEEEXtreme 17.0** in team BunnyPonyRose and ranked **9th** in the world
 
 # 📝 Publications 
 
@@ -62,22 +62,24 @@ Guangqian Yang, **Kangrui Du**, Zhihan Yang, Ye Du, Yongping Zheng, Shujun Wang
 </div>
 
 # 🎖 Honors and Awards
-- *2023.10* **2022-2023 China National Scholarship** (top **0.1%**)
-- *2022.10* **2021-2022 China National Scholarship** (top **0.1%**)
+- *2023.12* **The Most Outstanding Students Award of UESTC (2023)** (Top 10 undergraduates in UESTC)
+- *2023.10* **2022-2023 China National Scholarship** (top **1%**)
+- *2023.10* **9th Place Winner** in [IEEEXtreme 17.0](https://ieeextreme.org/ieeextreme-17-0-ranking/)
+- *2022.10* **2021-2022 China National Scholarship** (top **1%**)
 - *2022.10* **4th Place Winner** in [IEEEXtreme 16.0](https://ieeextreme.org/ieeextreme-16-0-ranking/)
-- *2021.10* **2020-2021 China National Scholarship** (top **0.1%**)
+- *2021.10* **2020-2021 China National Scholarship** (top **1%**)
 - *2021.04* **Gold Medal** in [2020 ICPC Asia Kunming Regional Contest](https://icpc.global/)
 - *2021.04* **Silver Medal** in [2020 ICPC Asia Asia-East Continent Final Contest (EC-Final)](https://icpc.global/)
 - *2020.12* **Silver Medal** in [2020 ICPC Asia Shanghai Regional Contest](https://icpc.global/)
 
 # 📖 Educations
-- *2020.09 - 2024.06 (expected)*, **B. Eng. Degree in Computer Science**, University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)). 
+- *2020.09 - 2024.06 (expected)*, **B. Eng. Degree in Computer Science and Technology**, University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)). 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2021.10 - Present*, Research Intern, [Brain and Intelligence Lab](https://guslab.org/) at [UESTC](https://en.uestc.edu.cn/), working on spiking neural networks, supervised by [Prof. Shi Gu](https://guslab.org/).
+- *2021.10 - Present*, Research Assistant, [Brain and Intelligence Lab](https://guslab.org/) at [UESTC](https://en.uestc.edu.cn/), working on spiking neural networks, supervised by [Prof. Shi Gu](https://guslab.org/).
 
-- *2023.07 - Present*, Research Intern, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), working on multimodal prognosis for Alzheimer's Disease(AD), supervised by [Prof. Shujun Wang](https://emma-sjwang.github.io/).
+- *2023.07 - 2024.03*, Research Intern, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), working on multimodal prognosis for Alzheimer's Disease(AD), supervised by [Prof. Shujun Wang](https://emma-sjwang.github.io/).
