@@ -66,19 +66,13 @@ Guangqian Yang, **Kangrui Du**, Zhihan Yang, Ye Du, Yongping Zheng, Shujun Wang
 - *2023.10* **2022-2023 China National Scholarship** (top **1%**)
 - *2023.10* **9th Place Winner** in [IEEEXtreme 17.0](https://ieeextreme.org/ieeextreme-17-0-ranking/)
 - *2022.10* **2021-2022 China National Scholarship** (top **1%**)
-- *2023.12* **The Most Outstanding Students Award of UESTC (2023)** (Top 10 undergraduates in UESTC)
-- *2023.10* **2022-2023 China National Scholarship** (top **1%**)
-- *2023.10* **9th Place Winner** in [IEEEXtreme 17.0](https://ieeextreme.org/ieeextreme-17-0-ranking/)
-- *2022.10* **2021-2022 China National Scholarship** (top **1%**)
 - *2022.10* **4th Place Winner** in [IEEEXtreme 16.0](https://ieeextreme.org/ieeextreme-16-0-ranking/)
-- *2021.10* **2020-2021 China National Scholarship** (top **1%**)
 - *2021.10* **2020-2021 China National Scholarship** (top **1%**)
 - *2021.04* **Gold Medal** in [2020 ICPC Asia Kunming Regional Contest](https://icpc.global/)
 - *2021.04* **Silver Medal** in [2020 ICPC Asia Asia-East Continent Final Contest (EC-Final)](https://icpc.global/)
 - *2020.12* **Silver Medal** in [2020 ICPC Asia Shanghai Regional Contest](https://icpc.global/)
 
 # 📖 Educations
-- *2020.09 - 2024.06 (expected)*, **B. Eng. Degree in Computer Science and Technology**, University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)). 
 - *2020.09 - 2024.06 (expected)*, **B. Eng. Degree in Computer Science and Technology**, University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)). 
 
 <!-- # 💬 Invited Talks
