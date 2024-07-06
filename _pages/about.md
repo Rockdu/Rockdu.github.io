@@ -36,7 +36,7 @@ My current research interests mainly lie in building systems for fast and effici
 
 Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across Time Steps and Deployment Friendliness
 
-**Kangrui Du**, Yuhang Wu, Shikuang Deng, Shi Gu
+**\*Kangrui Du**, \*Yuhang Wu, Shikuang Deng, Shi Gu
 
 [*Old version*](https://openreview.net/forum?id=RmQAKu1wCe) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Existing direct training methods are confined to a fixed timestep, which hinders on-chip dynamic energy-performance balancing and renders the models incompatible with fully event-driven chips.
