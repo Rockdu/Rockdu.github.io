@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Kangrui Du, a fourth-year undergraduate in Computer Science and Technology at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). I'm a member of [Brain and Intelligence Lab](https://guslab.org/) at [(UESTC)](https://en.uestc.edu.cn/) supervised by [Prof. Shi Gu](https://guslab.org/). I'm a research intern at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) where I'm fortunate to work with [Prof. Shujun Wang](https://emma-sjwang.github.io/). I'm also passionate about programming contest and was a member of UESTC ACM-ICPC team.
+Hi! I'm Kangrui Du, a first-year M.S. in Computational Science and Engineering at College of Computing, [Georgia Institute of Technology](https://www.gatech.edu/). Before that, I received my Bachelor's degree in Computer Science and Technology at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), where I was a member of [Brain and Intelligence Lab](https://guslab.org/) at [(UESTC)](https://en.uestc.edu.cn/) supervised by [Prof. Shi Gu](https://guslab.org/). I was a research intern at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) where I'm fortunate to work with [Prof. Shujun Wang](https://emma-sjwang.github.io/).
 <!-- My research interests lie in building, analyzing and applying efficient and low energy intelligent systems, including spiking neural networks, efficient AI, and medical image analysis.  -->
-My research interests mainly lie in the construction, analysis, and practical implementation of efficient intelligent systems, including spiking neural networks, efficient AI, and medical image analysis.
+My current research interests mainly lie in building systems for fast and efficient machine learning. I'm also interested in programing contests and traditional algorithms, and was a member of UESTC ACM-ICPC team.
+<!-- construction, analysis, and practical implementation of efficient intelligent systems, including spiking neural networks, efficient AI, and medical image analysis. -->
 
 
 <!-- # 🔥 News
@@ -28,21 +29,35 @@ My research interests mainly lie in the construction, analysis, and practical im
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission to ICLR2024</div><img src='images/tiny_fig1.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission to NeurIPS2024</div><img src='images/tiny_fig1.svg' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
-Temporal Flexibility in Spiking Neural Networks: A Novel Training Method for Enhanced Generalization Across Time Steps
+Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across Time Steps and Deployment Friendliness
 
 **Kangrui Du**, Yuhang Wu, Shikuang Deng, Shi Gu
 
-[**Paper**](https://openreview.net/forum?id=RmQAKu1wCe) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Current methods restrict SNNs to fixed time steps, necessitating extra tuning and hindering real-time adjustments. 
-- Our novel training method assigns time steps randomly to modules, mitigating their influence on inference, resulting in flexible SNNs that generalize across time steps and exhibit competitive performance compared to state-of-the-art methods.
+[*Old version*](https://openreview.net/forum?id=RmQAKu1wCe) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Existing direct training methods are confined to a fixed timestep, which hinders on-chip dynamic energy-performance balancing and renders the models incompatible with fully event-driven chips.
+- Design *Mixed Timestep Training* to train *Temporal Flexible SNNs* compatible with varied temporal structures.
+- TFSNN exhibits near-SOTA performance, generalization across varied timesteps, and event-driven friendliness.
+- Our work is the **first to report large model results** (VGGSNN, cifar10-dvs) on fully event-driven platforms.
 
-<!-- - Existing methods only allow SNNs to operate at a specific time step. This entails extra fine-tuning when switching to another time step and hinders the run-time adjustment of time steps for energy-accuracy balance.
-- We proposed a novel training method that randomly assigns time steps to different modules when forwarding to disentangle the influence of varying time steps from the inference process. 
-- Our method yields temporal flexible SNNs that can generalize across time steps. The method also brings SNNs performance boost, exhibiting competitive performance compared to the SOTA methods. -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/tiny_fig1.svg' alt="sym" width="100%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+
+CMViM: Contrastive Masked Vim Autoencoder for 3D Multi-modal Representation Learning for AD classification
+
+Guangqian Yang, **Kangrui Du**, Zhihan Yang, Ye Du, Yongping Zheng, Shujun Wang 
+
+[**Paper**](https://arxiv.org/abs/2403.16520) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- While many efforts were made on multimodal representation learning for medical datasets, few discussions are made to 3D medical images.
+- Introduced *Mamba SSM* and *contrastive learning* in multimodal masked pre-training for 3D ViT. Our method surpassed current SOTA methods in multimodal diagnosis of Alzheimer's Disease.
+
 </div>
 </div>
 
