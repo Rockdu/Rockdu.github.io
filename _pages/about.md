@@ -23,13 +23,14 @@ My current research interests mainly lie in building systems for fast and effici
 
 
 # 🔥 News
+- *2024.6*: I graduated from **UESTC**.
 - *2024.4*: I joined [**ByteDance**](https://www.bytedance.com/) as an intern, developing cloud computing systems for Douyin (TikTok China) video search.
 - *2023.12*: After a heated competition with the best students from various schools across the university, I'm awarded **The Most Outstanding Students Award of UESTC (2023)**. [Related link](https://mp.weixin.qq.com/s?__biz=MjM5NTQ4Mzc5Nw==&mid=2651596067&idx=1&sn=82204903a3fb3e452386725e72f441cd&chksm=bd0f5cd98a78d5cfa7aecca6983ead6d587fc59b3e5e89c83b9b07acbe548f7ad5dd01e8976d&scene=27)
 - *2023.10*: I participate in **IEEEXtreme 17.0** in team BunnyPonyRose and ranked **9th** in the world
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission to NeurIPS2024</div><img src='images/tiny_fig1.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission to NeurIPS2024</div><img src='images/Fig1_neurips2024.png' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -46,7 +47,7 @@ Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across T
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/tiny_fig1.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/cmvim.jpg' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -78,8 +79,8 @@ Guangqian Yang, **Kangrui Du**, Zhihan Yang, Ye Du, Yongping Zheng, Shujun Wang
 - *2020.12* **Silver Medal** in [2020 ICPC Asia Shanghai Regional Contest](https://icpc.global/)
 
 # 📖 Educations
-- *2020.09 - 2024.06 (expected)*, **B. Eng. Degree in Computer Science and Technology**, University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)). 
-- *2020.09 - 2024.06 (expected)*, **B. Eng. Degree in Computer Science and Technology**, University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)). 
+- *2024.08 - Present*, **M.S. in Computational Science and Engineering**, Georgia Institute of Technology ([Gatech](https://www.gatech.edu/)). 
+- *2020.09 - 2024.06*, **B.Eng. in Computer Science and Technology**, University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)). 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
