@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kangrui Du"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Electronic Science and Technology of China"
-  bio-part2        : "B. Eng. in Computer Science and Technology"
+  bio              : "Georgia Institute of Technology"
+  bio-part2        : "B.S. in Computational Science and Engineering"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
-  googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Kangrdu@gmail.com"
+  googlescholar    :  "https://scholar.google.com/citations?user=JTMWQlAAAAAJ&hl=en&oi=ao"
+  email            : "kangrdu@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
