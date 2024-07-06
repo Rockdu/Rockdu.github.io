@@ -87,6 +87,8 @@ Guangqian Yang, **Kangrui Du**, Zhihan Yang, Ye Du, Yongping Zheng, Shujun Wang
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2021.10 - Present*, Research Assistant, [Brain and Intelligence Lab](https://guslab.org/) at [UESTC](https://en.uestc.edu.cn/), working on spiking neural networks, supervised by [Prof. Shi Gu](https://guslab.org/).
+- *2024.04 - Present*, Software Engineering Intern, search architecture group at [Bytedance](https://www.bytedance.com/), working on cloud computing systems for Douyin video search.
+
+- *2021.10 - 2024.06*, Research Assistant, [Brain and Intelligence Lab](https://guslab.org/) at [UESTC](https://en.uestc.edu.cn/), working on spiking neural networks, supervised by [Prof. Shi Gu](https://guslab.org/).
 
 - *2023.07 - 2024.03*, Research Intern, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), working on multimodal prognosis for Alzheimer's Disease(AD), supervised by [Prof. Shujun Wang](https://emma-sjwang.github.io/).
