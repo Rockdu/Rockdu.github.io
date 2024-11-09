@@ -30,7 +30,7 @@ My current research interests mainly lie in building systems for fast and effici
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS2024 Poster</div><img src='images/STMixer.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS2024 Poster</div><img src='images/STMixer.png' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
