@@ -30,11 +30,11 @@ My current research interests mainly lie in building systems for fast and effici
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission to ICLR2025</div><img src='images/STMixer.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS2024 Poster</div><img src='images/STMixer.pdf' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
-Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across Time Steps and Deployment Friendliness
+Spiking Token Mixer: An Event-Driven Friendly Former Structure for Spiking Neural Networks
 
 \*Shikuang Deng, \*Yuhang Wu, **Kangrui Du**, Shi Gu
 
