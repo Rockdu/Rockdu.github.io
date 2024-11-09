@@ -30,6 +30,25 @@ My current research interests mainly lie in building systems for fast and effici
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission to ICLR2025</div><img src='images/STMixer.pdf' alt="sym" width="100%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+
+Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across Time Steps and Deployment Friendliness
+
+\*Shikuang Deng, \*Yuhang Wu, **Kangrui Du**, Shi Gu
+
+[*link*]([https://openreview.net/forum?id=RmQAKu1wCe](https://nips.cc/virtual/2024/poster/93999)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- To harness the energy efficiency of Spiking Neural Networks (SNNs), deploying them on neuromorphic chips is essential.
+- While recent advancements have significantly boosted SNN performance, many designs remain incompatible with asynchronous, event-driven chips, limiting their integration and energy-saving potential.
+- We proposed a novel state-of-the-art spike-based transformer, STMixer, to address these limitations by relying solely on operations supported by asynchronous hardware.
+- Our experiments validate STMixer's outstanding performance in both event-driven and clock-driven scenarios.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission to ICLR2025</div><img src='images/Fig1_neurips2024.png' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
