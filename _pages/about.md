@@ -39,7 +39,7 @@ Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across T
 
 **\*Kangrui Du**, \*Yuhang Wu, Shikuang Deng, Shi Gu
 
-[*Old version*](https://openreview.net/forum?id=RmQAKu1wCe) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[*link*](https://openreview.net/forum?id=RmQAKu1wCe) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We identified "temporal inflexibility" caused by standard direct training, which limits SNN's deployment on fully event-driven hardware and restricts energy-performance trade-off by dynamic inference time steps.
 - We proposed MTT, a novel training approach that boosts temporal flexibility of SNN by assigning random time steps to different parts of the network during each training iteration.
 - MTT's effectiveness is proved by intensive experiments on GPU-accelerated servers, neuromorphic chips, and our high-performance event-driven simulator.
