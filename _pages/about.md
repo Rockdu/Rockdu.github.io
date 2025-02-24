@@ -31,7 +31,7 @@ My current research interests mainly lie in building systems for fast and effici
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission to ICLR2025</div><img src='images/Fig1_neurips2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/Fig1_neurips2024.png' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
