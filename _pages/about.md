@@ -30,6 +30,25 @@ My current research interests mainly lie in building systems for fast and effici
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission to ICLR2025</div><img src='images/Fig1_neurips2024.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+
+Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across Time Steps and Deployment Friendliness
+
+**\*Kangrui Du**, \*Yuhang Wu, Shikuang Deng, Shi Gu
+
+[*Old version*](https://openreview.net/forum?id=RmQAKu1wCe) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We identified "temporal inflexibility" caused by standard direct training, which limits SNN's deployment on fully event-driven hardware and restricts energy-performance trade-off by dynamic inference time steps.
+- We proposed MTT, a novel training approach that boosts temporal flexibility of SNN by assigning random time steps to different parts of the network during each training iteration.
+- MTT's effectiveness is proved by intensive experiments on GPU-accelerated servers, neuromorphic chips, and our high-performance event-driven simulator.
+- To the best of our knowledge, our work is the **first to report large model results** (VGGSNN, cifar10-dvs) on fully event-driven platforms.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS2024</div><img src='images/STMixer.png' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
@@ -48,23 +67,6 @@ Spiking Token Mixer: An Event-Driven Friendly Former Structure for Spiking Neura
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission to ICLR2025</div><img src='images/Fig1_neurips2024.png' alt="sym" width="100%"></div></div>
-
-<div class='paper-box-text' markdown="1">
-
-Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across Time Steps and Deployment Friendliness
-
-**\*Kangrui Du**, \*Yuhang Wu, Shikuang Deng, Shi Gu
-
-[*Old version*](https://openreview.net/forum?id=RmQAKu1wCe) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Existing direct training methods are confined to a fixed timestep, which hinders on-chip dynamic energy-performance balancing and renders the models incompatible with fully event-driven chips.
-- Design *Mixed Timestep Training* to train *Temporal Flexible SNNs* compatible with varied temporal structures.
-- TFSNN exhibits near-SOTA performance, generalization across varied timesteps, and event-driven friendliness.
-- Our work is the **first to report large model results** (VGGSNN, cifar10-dvs) on fully event-driven platforms.
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/cmvim.jpg' alt="sym" width="100%"></div></div>
 
